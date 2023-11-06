@@ -57,20 +57,21 @@ This is Mobi-Manager Portfolio Website developed by me for my Organization. Go a
 ![Mobi-Manager-support-status-completed](https://github.com/mdtalalwasim/Mobi-Manager-Product-Portfolio-Website/assets/91146041/260a5225-1250-4d2f-9db3-c85c0a7d7ed4)
 
 
-# Learn more about me :
-- 🌐 My Portfolio : https://mdtalalwasim.github.io/
-- 💖 Love Java Technology. 
-- 🎓 MSc, BSc in Computer Science and Engineering.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently working on Spring Boot Framework.
-- 📫 How to reach me: md.talalwasim@gmail.com
-- 💞️ Love to learn new technology.
-- 💬 Ask me about Web Development
-- 🔍 Open to join any time to your organization.
-<!-- - 👉 LinkedIn Profile: https://bd.linkedin.com/in/mdtalalwasim -->
+### Things you should know about me:
+- 🎓 <b>Education:</b> <i>MSc, BSc in Computer Science and Engineering.</i>
+- 💖 <b>Love:</b> Java Technology. 
+- 👨🏽‍💻 <b>Currently working on:</b> Java, Spring Boot, JPA, JDBC, MySql
+- 🖍 <b>Frontend:</b> Bootstrap, Thymeleaf, HTML5, CSS3, JSP
+- 🤔 <b>Exploring:</b> AWS, ReactJS, Docker, Microservices
+- 🖍 <b>Getting better at:</b> Java
+- 👀 <b>Interest:</b> Software Development.
+- 💞️ <b>Hobby:</b> Spending time with Coding, Problem Solving, Learn New Things and Technologies.
+- 💬 <b>Ask me about:</b> Java, Spring Boot, Deployment, MySql, Microservices
+- 📫 <b>How to reach me:</b> md.talalwasim@gmail.com
+- 💬 <strong>Other link:</strong> [Portfolio](https://mdtalalwasim.github.io/), [LinkedIn](https://www.linkedin.com/in/mdtalalwasim/) , [HackerRank](https://www.hackerrank.com/mdtalalwasim)
 
   
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdtalalwasim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdtalalwasim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdtalalwasim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16860521/md-talal-wasim)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/mdtalalwasim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mdtalalwasim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/mdtalalwasim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/16860521/md-talal-wasim)  
 
 # Thank you.
