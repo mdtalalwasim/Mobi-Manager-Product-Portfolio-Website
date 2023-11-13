@@ -1,6 +1,6 @@
 # Mobi-Manager Product Portfolio Website
 
-This is Mobi-Manager Portfolio Website developed by me for my Organization. Go and Check out my work : https://mobi-manager.com/ 
+This is Mobi-Manager Portfolio Website <b>Developed by myself</b> for my Organization (INovex Idea Solution Limited). You can Check out my work : https://mobi-manager.com/ 
 <br>  
 - more details coming soon...
 <hr>  
